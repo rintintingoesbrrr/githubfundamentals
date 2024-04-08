@@ -7,6 +7,10 @@ this is a repo
 
 ## Contents 
 contents
+### lists
+- Turn on GitHub Pages
+- Outline my portafolio
+- Introduce myself to the world
 
 ### code examples 
 
