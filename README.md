@@ -12,7 +12,7 @@ contents
 
 """ print(1 + 2) """
 ### images
-asstes/images/'download (1).jpeg' 
+/'download (1).jpeg' 
 
 ## References
 
