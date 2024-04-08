@@ -8,7 +8,7 @@ this is a repo
 ## Contents 
 contents
 ### images
-asstes/images/'download (1).jpeg' 
+/'download (1).jpeg' 
 
 ## References
 
